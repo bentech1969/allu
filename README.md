@@ -1,2 +1,3 @@
 # allu
-calculator
+[calculator](calculator.html)
+
